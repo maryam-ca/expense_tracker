@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,3 +73,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # expense_tracker
 >>>>>>> d6ffb1e33e2263621203b9d895841b0346031e67
+=======
+# My React Web App
+This is my React application with routing and components.
+=======
+# Expense Tracker
+A simple expense tracking application.
+>>>>>>> origin/main
+>>>>>>> origin/main
